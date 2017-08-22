@@ -13,7 +13,7 @@
       "experimentalDecorators": true,
       "noImplicitReturns": true,
       "noImplicitThis": true,
-      "noImplicitAny": false,
+      "noImplicitAny": true,
       "strictNullChecks": true,
       "suppressImplicitAnyIndexErrors": true,
       "noUnusedLocals": true
